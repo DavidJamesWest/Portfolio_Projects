@@ -6,9 +6,11 @@ The Portfolio projects will focus mainly on three main areas of interest:
 - Tableau
 
 ## Python Projects
-- Six Nations (2000 - 2023) dataset EDA
+- Six Nations 2023 dataset EDA
 
 ## SQL Projects
 - Fruit and Veg Prices 
 
 ## Tableau Projects
+- Tableau Public Profile: https://public.tableau.com/app/profile/david.west7635
+- Clothing and Accessories: National Sales Dashboard
