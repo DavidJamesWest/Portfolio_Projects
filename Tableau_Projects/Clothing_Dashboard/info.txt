@@ -1,0 +1,3 @@
+Clothing and Accessories: National Sales Dashboard.
+The dataset can be downloaded from Kaggle at the page: https://www.kaggle.com/datasets/ishanshrivastava28/sales-transaction-dataset-with-product-details
+The tableau is just an example to demonstrate the capability to produce a number of types of graphs, as well as demonstrating the ability to create a dashboard with working filters.
